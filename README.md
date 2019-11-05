@@ -7,11 +7,19 @@ This free consulting project helps you extract pages from a PDF file based on a 
 
 # Screenshots
 
-![CommaSeparated](https://user-images.githubusercontent.com/1214951/68214632-a286d700-ffff-11e9-9715-2a446cdc3b28.png)
+This is the initial screen of the project. This is where you specify the criteria to extract pages from the PDF file. 
 
 ![MainUI](https://user-images.githubusercontent.com/1214951/68214633-a31f6d80-ffff-11e9-9160-2f0adcac9bf1.JPG)
 
+If you want to extract specific pages then you can provide a comma saperated list of pages specifying page numbers of the PDF pages you want to extract. 
+
+![CommaSeparated](https://user-images.githubusercontent.com/1214951/68214632-a286d700-ffff-11e9-9715-2a446cdc3b28.png)
+
+If you want to extract a range of page i.e. consective pages, then you can specify the starting page number and the ending page number. 
+
 ![RangeUI](https://user-images.githubusercontent.com/1214951/68214634-a31f6d80-ffff-11e9-9be9-df0c4f2bfd0e.png)
+
+You can also extract pages based on a search criteria as well. 
 
 ![SearchText](https://user-images.githubusercontent.com/1214951/68214635-a31f6d80-ffff-11e9-8fa6-8f7c77f1a329.png)
 
