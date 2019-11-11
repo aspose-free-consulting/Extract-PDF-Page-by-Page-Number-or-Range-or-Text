@@ -15,7 +15,7 @@ If you want to extract specific pages then you can provide a comma saperated lis
 
 ![CommaSeparated](https://user-images.githubusercontent.com/1214951/68214632-a286d700-ffff-11e9-9715-2a446cdc3b28.png)
 
-If you want to extract a range of page i.e. consective pages, then you can specify the starting page number and the ending page number. 
+If you want to [extract a range of page](https://docs.aspose.com/display/pdfnet/Extract+PDF+pages) i.e. consective pages, then you can specify the starting page number and the ending page number. 
 
 ![RangeUI](https://user-images.githubusercontent.com/1214951/68214634-a31f6d80-ffff-11e9-9be9-df0c4f2bfd0e.png)
 
