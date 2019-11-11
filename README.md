@@ -1,5 +1,5 @@
 # Extract PDF Page by Page Number or Page Range or by Text
-This free consulting project helps you extract pages from a PDF file based on a range of pages like 1 to 10, or specific page numbers like 1,3,4,5,8,10, or by specifying some text like "Page 2" etc.
+This [free consulting project](https://aspose-free-consulting.github.io/) uses [Aspose.Pdf](https://products.aspose.com/pdf) helps you [extract pages from a PDF file based on a range of pages](https://docs.aspose.com/display/pdfnet/Working+with+Pages) like 1 to 10, or specific page numbers like 1,3,4,5,8,10, or by specifying some text like "Page 2" etc.
 
 #The Sample PDF file Used with this Project
 
