@@ -11,7 +11,7 @@ This is the initial screen of the project. This is where you specify the criteri
 
 ![MainUI](https://user-images.githubusercontent.com/1214951/68214633-a31f6d80-ffff-11e9-9160-2f0adcac9bf1.JPG)
 
-If you want to extract specific pages then you can provide a comma saperated list of pages specifying page numbers of the PDF pages you want to extract. 
+If you want to [extract specific pages](https://docs.aspose.com/display/pdfnet/Extract+PDF+pages#ExtractPDFpages-ExtractArrayofPDFPagesUsingStreams) then you can provide a comma saperated list of pages specifying page numbers of the PDF pages you want to extract. 
 
 ![CommaSeparated](https://user-images.githubusercontent.com/1214951/68214632-a286d700-ffff-11e9-9715-2a446cdc3b28.png)
 
